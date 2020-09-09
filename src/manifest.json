@@ -1,7 +1,7 @@
 {
   "name": "HBO Hotkeys",
   "description": "Add play, pause and more hotkeys to HBO player",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "content_scripts": [
     {
@@ -13,6 +13,9 @@
       "js": ["contentScript.js"]
     }
   ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
   "icons": {
     "128": "icon.png"
   }
