@@ -1,6 +1,6 @@
 # HBO Hotkeys
 
-Add play, pause and more hotkeys to HBO player
+Chrome extension that adds play, pause and more hotkeys to HBO web player.
 
 Enter/Space - Play/Pause
 Left arrow - Skip backward 10 seconds
